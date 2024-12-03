@@ -312,3 +312,30 @@ footer{
     color: white;
     font-size: 40px;
 }
+#div88{
+    height: 400px;
+    width: 400px;
+    background-image:url("https://www.free-css.com/assets/files/free-css-templates/preview/page292/honey/assets/images/body_bg.png");
+    background-repeat: no-repeat;
+    background-size:400px 400px;
+    position: relative;
+    bottom: 450px;
+    left: 900px;
+    
+}
+#inp{
+    margin: 10px 0;
+    padding:20px 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    position: relative;
+    top: 0px;
+    left: 10px;
+    background-color: white
+}
+h6{
+    font-size: 30px;
+    color: white;
+    
+}
